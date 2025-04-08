@@ -1,0 +1,23 @@
+body {
+    background-color: yellowgreen;
+}
+
+.tabla1, .tabla2, .tabla3 {
+    background-color: ivory;
+    border-color: royalblue;
+
+}
+
+th {
+    color: red;
+}
+
+a {
+    text-decoration: none;
+    color: red;
+}
+
+td {
+    text-align: center;
+    background: lightblue;
+}
